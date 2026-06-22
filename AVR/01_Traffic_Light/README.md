@@ -1,4 +1,4 @@
-# Traffic Light Controller using AVR
+# 4-WAY TRAFFIC LIGHT CONTROLLER USING AVR MICROCONTROLLER
 
 ## Project Overview
 
